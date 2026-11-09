@@ -8,7 +8,7 @@ Pocket TTS voice conditioning may preserve the reference accent; British wording
 
 Narration script is approximately a two-minute-plus read; actual audio determines the final edit. The silent feature demonstration is a visual review cut, not the narrated delivery. Recording timings are not speech-aligned captions.
 
-Confirmed background: bachelor's and master's degrees in electronics; 3–4 years working in the electronics industry within 2012–2018. This does not claim six continuous years.
+Confirmed background: bachelor's degree and master's with research in electronics; 3–4 years working in the electronics industry within 2012–2018. This does not claim six continuous years.
 
 ## Evidence
 - Website functionality: dist/index.html, experience.js, app.js, circuit.js, circuit-data.js.

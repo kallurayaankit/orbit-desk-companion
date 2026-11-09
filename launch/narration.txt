@@ -1,6 +1,6 @@
 Fancy a little droid for your desk? This is Orbit, my interactive ESP thirty-two companion prototype.
 
-I've got a bachelor's and a master's in electronics, with three to four years in the industry during twenty twelve to twenty eighteen. This project brings me back to that world, with a rather cosmic twist.
+I've got a bachelor's and a master's with research in electronics, with three to four years in the industry during twenty twelve to twenty eighteen. This project brings me back to that world, with a rather cosmic twist.
 
 Scroll through the three-D scene, peek beneath the shell, then choose from five applications. Shift the time of day and watch its world change. That's the fourth dimension here: time.
 

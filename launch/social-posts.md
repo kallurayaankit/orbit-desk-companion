@@ -2,7 +2,7 @@
 
 Back to my electronics roots—with a little droid for company.
 
-I have a bachelor's and a master's in electronics, and spent 3–4 years working in the industry during 2012–2018. Building Orbit has been a rather lovely way to connect that background with AI-assisted software development.
+I have a bachelor's and a master's with research in electronics, and spent 3–4 years working in the industry during 2012–2018. Building Orbit has been a rather lovely way to connect that background with AI-assisted software development.
 
 Orbit is an ESP32-S3 desk-companion concept you can explore in your browser:
 
