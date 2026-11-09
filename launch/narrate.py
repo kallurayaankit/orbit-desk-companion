@@ -3,7 +3,7 @@ Example: python launch/narrate.py --reference /private/raya.wav --output /privat
 Requires an authenticated, downloaded Pocket TTS voice-cloning model.
 """
 from pathlib import Path
-import argparse,json
+import argparse,json,os
 import numpy as np
 from scipy.io import wavfile
 
@@ -13,6 +13,12 @@ def main():
  parser.add_argument('--output',type=Path,required=True)
  parser.add_argument('--config',type=Path)
  args=parser.parse_args()
+ # Accept the secret names used in the saved cloud configuration.
+ if not os.environ.get("HF_TOKEN"):
+  for name in ("HF_token", "hf_token"):
+   if os.environ.get(name):
+    os.environ["HF_TOKEN"]=os.environ[name]
+    break
  from pocket_tts import TTSModel
  model=TTSModel.load_model(config=str(args.config)) if args.config else TTSModel.load_model()
  voice=model.get_state_for_audio_prompt(str(args.reference.resolve()))
