@@ -15,7 +15,8 @@ I'm particularly chuffed with the connection between the visual prototype and th
 
 This is a digital prototype and proposed build guide. The sensor and voice interactions are simulated; the circuit still needs physical validation before a real build.
 
-Have a look: https://orbit-companion-dusky.vercel.app
+Live demo: https://orbit-companion-dusky.vercel.app
+Code: https://github.com/kallurayaankit/orbit-desk-companion
 
 Which would you build first: Pathfinder, Focus, Atmos, Sprout or Echo?
 
@@ -29,4 +30,4 @@ https://orbit-companion-dusky.vercel.app
 
 # Publishing
 
-Attach the final narrated demo to both posts. These are drafts, not published posts. Add the verified GitHub repository URL after publication; do not claim the code is public until it is.
+Attach the final narrated demo to both posts. These are drafts, not published posts. Source repository: https://github.com/kallurayaankit/orbit-desk-companion

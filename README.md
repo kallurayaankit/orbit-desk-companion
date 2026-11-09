@@ -2,6 +2,10 @@
 
 Live production site: https://orbit-companion-dusky.vercel.app
 
+Source: https://github.com/kallurayaankit/orbit-desk-companion
+
+Launch script, post drafts and capture/narration helpers: `launch/README.md`.
+
 A cinematic, original ESP32 companion concept with a real-time Three.js droid, a procedural planet and starfield, scroll-controlled exploded assembly, five device personalities, time-of-day lighting, and an interactive simulation lab.
 
 ## Circuit workshop
@@ -32,7 +36,7 @@ npm run dev
 
 Open http://localhost:3000. No package installation is required for local development. Three.js 0.170.0 and fonts are vendored, with their licenses, so browsers make no third-party asset requests.
 
-Tests verify the existing lab behavior and the new scene geometry/scroll math, profile switching, keyboard navigation, time controls, motion control, and relative assets. Scene tests use real Three.js geometry with a renderer stub; they do not substitute for visual browser testing. The managed browser's network failure prevented a visual pass in this session.
+Tests verify the existing lab behavior and the new scene geometry/scroll math, profile switching, keyboard navigation, time controls, motion control, and relative assets. Scene tests use real Three.js geometry with a renderer stub; they do not substitute for visual browser testing. A later local Chromium/Playwright recording verified rendered scenes and interactions across the homepage, all five lab applications and all five circuit guides, with no page errors. Representative frames were inspected. This does not validate physical hardware.
 
 ## Hosting
 
