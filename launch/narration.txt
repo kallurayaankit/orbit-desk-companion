@@ -1,0 +1,21 @@
+Fancy a little droid for your desk? This is Orbit, my interactive ESP thirty-two companion prototype.
+
+I've got a bachelor's and a master's in electronics, with three to four years in the industry during twenty twelve to twenty eighteen. This project brings me back to that world, with a rather cosmic twist.
+
+Scroll through the three-D scene, peek beneath the shell, then choose from five applications. Shift the time of day and watch its world change. That's the fourth dimension here: time.
+
+Pathfinder shows a clock, simulated weather and room readings. Change the light, presence and LED mood; the little chap reacts.
+
+Focus runs a real browser countdown. Atmos explores temperature and humidity rules. Sprout responds to light and room humidity. And Echo demonstrates a scripted voice interaction. No live microphone or AI connection yet.
+
+Now, here's the bit I'm properly chuffed with: the Circuit workshop.
+
+Rotate the internal assembly, pull it apart in the exploded view, or look down on the PCB placement plan. Select a component to see what it does, where it belongs and how it connects.
+
+Press Circuit and build it up, step by step. The five applications each have their own arrangement: the focus button and buzzer, climate sensors, plant light sensing, and Echo's microphone, amplifier and speaker.
+
+The wiring map gives pin-to-pin connections. There's a parts list, Arduino setup, downloadable diagnostic sketches and build plans. You can export the simulation settings too.
+
+It's a digital prototype and proposed assembly guide, not a tested physical product or fabrication-ready PCB. That bench work comes next.
+
+Have a proper look round Orbit. Pick a companion, open Circuit, and see how the idea fits together.

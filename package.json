@@ -1,0 +1,14 @@
+{
+  "name": "orbit-desk-companion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/check.mjs",
+    "test": "node scripts/test.mjs && node scripts/experience-test.mjs && node scripts/circuit-test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module"
+}
